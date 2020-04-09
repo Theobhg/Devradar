@@ -17,10 +17,10 @@ DevRadar is a web and mobile application created to connect developers
 close to you who working with the same technologies.
 
 ## Technologies
-* Node.JS
-* React
-* React Native
-* Expo
+- [Node.Js](https://nodejs.org/en/)
+- [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
 
 ## How to use
 * Search for a technology
