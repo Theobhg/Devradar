@@ -1,4 +1,8 @@
 # Devradar
+
+[![star this repo](https://githubbadges.com/star.svg?user=Theobhg&repo=Devradar&style=flat)](https://github.com/Theobhg/Devradar)
+[![fork this repo](https://githubbadges.com/fork.svg?user=Theobhg&repo=Devradar&style=flat)](https://github.com/Theobhg/Devradar/fork)
+
  Web and mobile application developed at Rocketseat's Omnistack 10 week.
  
  
